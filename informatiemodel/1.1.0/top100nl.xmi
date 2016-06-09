@@ -1132,7 +1132,7 @@
 		<GML:DataType base_Class="EAID_3A17C855_63BB_4634_8058_6B611FA11904" noPropertyType="true"/>
 		<NEN3610:dataType base_Class="EAID_3A17C855_63BB_4634_8058_6B611FA11904"/>
 		<thecustomprofile:id base_Package="EAPK_6A5BEE3A_ADD9_4228_8843_A1D3E865685C" id="NL.TOP100NL.0"/>
-		<NEN3610:applicationSchema base_Package="EAPK_6A5BEE3A_ADD9_4228_8843_A1D3E865685C" version="1.1" xmlns="top100nl" xsdDocument="top100nl_1_1.xsd" targetNamespace="http://register.geostandaarden.nl/gmlapplicatieschema/top100nl/1.1.0"/>
+		<NEN3610:applicationSchema base_Package="EAPK_6A5BEE3A_ADD9_4228_8843_A1D3E865685C" version="1.1" xmlns="top100nl" xsdDocument="top100nl.xsd" targetNamespace="http://register.geostandaarden.nl/gmlapplicatieschema/top100nl/1.1.0"/>
 		<thecustomprofile:xsdEncodingRules base_Package="EAPK_6A5BEE3A_ADD9_4228_8843_A1D3E865685C" xsdEncodingRules="iso19136_2007"/>
 		<EAUML:enumeration base_Enumeration="EAID_0D3F0793_3BF9_4ceb_B867_CBCD642A5A6F"/>
 		<thecustomprofile:enum base_EnumerationLiteral="EAID_414D4FB4_39D0_4dd1_A5B7_D4A550D31BDC"/>
@@ -1529,6 +1529,7 @@
 				<project phase="1.0" created="2010-01-18 22:33:32" modified="2013-03-26 16:38:38" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Model"/>
@@ -1543,6 +1544,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-18 22:36:03" modified="2013-03-26 16:36:43" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={A2193A51-EB98-4c47-8A20-9F280F4E5C7A}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=external;GUID={2F0077B1-7200-464e-B557-C7867D2C0F01};@ENDSTEREO;$DES;$CLT={2A58D8CA-EFBA-4748-9452-845D4405E1E4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Kadaster"/>
@@ -1557,6 +1559,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:16:22" modified="2010-01-20 15:16:25" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={CB923C6A-BACC-4b35-AAAD-1C6F61CFD601}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={092DD341-201A-4124-9B5E-AEEBB6D60A42}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={ED65695A-4685-4c70-8790-8396F6FE364E}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={092DD341-201A-4124-9B5E-AEEBB6D60A42}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1567,6 +1570,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:16:32" modified="2010-01-20 15:16:38" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={013CD458-F917-4c16-8AAE-885F84CD5A96}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={6D9078A3-14CB-4b1f-85A5-15207CBBBDDA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={6EE38CDA-38B9-421e-A0E5-460F36C9CEA4}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={6D9078A3-14CB-4b1f-85A5-15207CBBBDDA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1577,6 +1581,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:14:59" modified="2010-01-20 15:15:26" complexity="1" status="Proposed"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={9D5E52AA-1D93-4b6d-A3DE-4AB64E5D8364}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={2C3F1533-2281-4567-9990-01DCEE6661C8}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={A8B9D13E-5D08-4b3a-B23A-E0FDC01A9397}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={2C3F1533-2281-4567-9990-01DCEE6661C8}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{8922FB9C-48C3-4fb1-A04D-6673177DA71B},{F44C90C4-BD32-4cf7-BA7E-520850E29EA7},{C4A76131-8422-4085-8F07-EFD9C317A915},{53ABB572-E144-4f0e-85E2-AFD91A7F65FE},{C08A15E6-0A2E-4849-B84F-AB36A3EE104D},{EA9A6F13-D2DF-40e5-9501-E678FD090E9A},{65DBB73A-B697-4f0a-B84D-6FB1A999AF4C},{48C51E53-82A4-45b8-B74B-0F7A33B63CD8},{A6596146-C38E-4a35-9650-058521102753},{D2C8E254-C8BE-4177-8860-65C59EB9535C},{0423995C-56C1-4dae-AE99-61307333FB6B},{C63F4DAA-F158-438b-9736-EFD26A06B93E},{D2828562-FA70-4c49-86A4-42BFA1225524},{E9736684-B465-4dc7-8FB9-86E3FB261FAA},{0A04EEE5-57F0-4a5a-ADFC-11263D2989AB},{D74BFF95-98B5-4680-A7C3-9F222BC48DF5},{98849936-FC62-419b-8B56-ECCC5A936F4F},{6D9F90AB-2BD8-4354-A2EA-4097EF68E107},{CB020A85-3925-49ee-9AC5-3BC8EBAC8F61},{E6BB926D-BBE1-4595-81AC-AF1AAF8D3989},{887F5E89-35AA-4c1e-8465-D348989AFB19},{890DC697-28E9-480f-9D8E-27608460067A},{DE837707-505D-4041-8135-A26A03BFDBCB},{73E923E3-C70D-40fa-B2FE-2F5404CAFCFC},{8D4BFE66-A507-4a99-886C-484598BAA65D},{8F3CF0EA-DFAD-4f5f-A7FF-3BF0878C4B13},{867934D3-B9DE-4681-A19C-16D2AE2496F0},{52768903-E2D8-4771-9C2C-B3A527623F3D},{9AB92580-36C7-441c-B7A0-CB5F5C30BF42}"/>
@@ -1587,6 +1592,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:15:56" modified="2010-01-20 15:16:07" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={03674120-55D6-41d9-9276-6966179AD024}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={326BCEE7-4BD2-46bb-BAFB-347B1076AE1D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={ADF3BDC0-F2DE-4f6d-A126-0C2C156346F6}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={326BCEE7-4BD2-46bb-BAFB-347B1076AE1D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{CBEF270B-9E42-44f7-9586-4ADB30F4E4C2}"/>
@@ -1597,6 +1603,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:20:21" modified="2010-01-20 15:20:24" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={70939F08-0ADB-4e84-9178-3471ED1CDAB1}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={4CB6BBE5-EFAF-4680-8E2F-C4DD1ADE6428}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={9AD8D5CF-DFCA-467d-A80C-498F09D02891}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={4CB6BBE5-EFAF-4680-8E2F-C4DD1ADE6428}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{841EEA73-4B62-4767-A564-9C773D7C4A97},{6CBEAC23-7FA6-4969-B3C4-EC2835FDF8CD}"/>
@@ -1607,6 +1614,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:52:21" modified="2011-03-15 16:50:35" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={819651EF-0DFF-4c3d-9B97-22A387CBD508}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={0FC9EEF9-8A1B-4045-A82E-E8AB4FF75990}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={A6AE2103-C510-4795-95ED-BE4334B81A9B}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={0FC9EEF9-8A1B-4045-A82E-E8AB4FF75990}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{D17113C9-E5CE-40ff-B21C-EF5CF87B7B12},{BC84EE89-A0E5-4026-BF95-6DC539970C29},{434FD26F-F00B-45d4-A890-AEDF306139E5}"/>
@@ -1617,6 +1625,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:52:55" modified="2010-01-20 14:53:01" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={29285B44-8865-4609-A891-8B8430941B9D}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={507F9B4B-F77E-48f2-848E-2EB7220A99C6}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={724B4FD7-2535-49c7-8096-5E36B96BCA36}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={507F9B4B-F77E-48f2-848E-2EB7220A99C6}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1627,6 +1636,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:03:53" modified="2010-01-20 15:04:09" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={B2338B2B-267B-41c2-8E0D-B6E8CC8561C1}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={B491881D-7EA8-4d92-A6EA-EB7D7A4C967D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={9EFECCB3-36D6-4d57-8F72-9827E3DFBD2D}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={B491881D-7EA8-4d92-A6EA-EB7D7A4C967D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1637,6 +1647,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:53:15" modified="2011-03-15 16:50:50" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={F44E6F71-A52A-4063-82E1-B17F5BC74E6F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={9EA5855C-069D-41d1-9BCD-DD4D0DEE6FEA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={800338B3-BF43-40f1-A27A-FEB266337419}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={9EA5855C-069D-41d1-9BCD-DD4D0DEE6FEA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1647,6 +1658,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:53:37" modified="2011-03-15 16:09:50" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={65C32FB4-77A1-4ca0-92A5-CE49C2C9D4AF}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={BDA6BCF0-0256-4f79-BE96-0BCA4A74B93D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={5D15A512-07FC-4ed5-ABF4-28DB68BD005B}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={BDA6BCF0-0256-4f79-BE96-0BCA4A74B93D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1657,6 +1669,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:53:04" modified="2011-03-15 16:51:07" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={01983881-8139-4cdb-9C10-D3C9CF065251}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={8ED4CD75-2D73-4506-97BE-8A69A58F2937}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={696CBFB1-4B30-4a55-AEAB-F4CAAB691689}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={8ED4CD75-2D73-4506-97BE-8A69A58F2937}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1667,6 +1680,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:53:27" modified="2011-03-15 16:51:19" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E1EA69D3-16BA-4bb8-B54B-BEFCF295180D}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={28E881FF-2361-44aa-8FF9-08604E438AFE}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={71232687-C437-454c-BB72-5A4A4E9561A7}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={28E881FF-2361-44aa-8FF9-08604E438AFE}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{AF786DA1-0367-41d3-A928-4CB363EA7950},{0EADA61E-D520-4185-B272-7CA2D5948078}"/>
@@ -1677,6 +1691,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:52:00" modified="2011-03-15 16:51:27" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={2E58DA47-BBB0-4337-9E56-81E3244CB458}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={CA9CCE00-9C40-4b96-952F-7E7F8C0086F3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={47E81553-7B1B-4ccb-94C6-9BA81500A122}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={CA9CCE00-9C40-4b96-952F-7E7F8C0086F3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{B229A039-6D40-4d41-B6E0-02B22487EB2E},{3B19AB3B-0690-44b4-8F5E-5A3DB180AFAD},{F114EB63-8E9D-40e2-B52D-15DB53D699B9}"/>
@@ -1687,6 +1702,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:50:07" modified="2010-01-20 14:50:13" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E7FC4E5C-A201-42e5-A21A-8E928644CC27}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={23F9390B-9A60-4941-A62C-85718E23E5B4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={6404B736-1F06-4e34-80C2-1F638F1881A4}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={23F9390B-9A60-4941-A62C-85718E23E5B4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1697,6 +1713,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 14:52:41" modified="2011-03-15 16:51:44" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={34D18D89-97E7-4809-8632-E30EB9BAE088}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={CCDDE1A3-5915-41e8-986C-F9F9271380A7}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={8B286351-DC9F-465d-BFAE-1C297000C7BE}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={CCDDE1A3-5915-41e8-986C-F9F9271380A7}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{7814B5E2-1CE9-4419-8A88-073538A51293},{7D3C2526-1D4C-44a7-8EDC-54A7C40B7EF3},{F685B1CA-8ED4-46c6-8F53-4C2E2BF3EE8D},{D52CA61A-3AC8-4fd8-A0E7-F6A2E27D9665}"/>
@@ -1707,6 +1724,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:15:32" modified="2010-01-20 15:15:41" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={8C329B0F-7B84-4002-B3AA-A14C8C095BD3}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={6117ACBD-3892-4c5a-8241-2570BD334665}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={64C25584-9921-4056-9192-38BFD4B4139C}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={6117ACBD-3892-4c5a-8241-2570BD334665}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{A05F1A4A-C2DF-49e4-A36B-8D616C5BFF15},{FEE24C39-AAFF-4904-B69D-3431D155FC93},{97BDD826-ADBD-462a-991A-23BA349453C2},{441DEBE2-0BC7-4790-8CCC-6076E864D9C1},{AF9BB9DC-52C7-467b-BE90-7BF428D1B4F1},{0CE5E43C-E046-46d5-99A7-89FE56AB7BA2},{6FF54345-8FE7-4be2-A73A-83369CA2292D}"/>
@@ -1717,6 +1735,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:29:46" modified="2010-01-20 15:29:49" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={BAE05D93-26E4-401a-9F4A-8784E565819C}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={3B9D4E02-F33A-4d58-8D2D-B9773B7BBF48}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={640D0748-6DD8-44a9-915C-61A4E77DB0AB}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={3B9D4E02-F33A-4d58-8D2D-B9773B7BBF48}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1727,6 +1746,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:16:16" modified="2010-01-20 15:16:19" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={8711F61B-A37E-48d2-BDF5-0ED5AF0CB17B}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={F8D66774-69DA-4eee-92BD-31EECCB65BF3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={75472AFF-7804-44fd-8110-63067A378B8C}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={F8D66774-69DA-4eee-92BD-31EECCB65BF3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML" ea_attsclassified="{770CA9B7-6DC1-4551-89CF-F1E1221824C4},{9EB58C14-C2BF-4d9b-BB63-A75AF47DC9A1}"/>
@@ -1737,6 +1757,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:20:13" modified="2010-01-20 15:20:16" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={C3154650-0506-4867-A333-ABFACB7711A4}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={185D811A-D963-4f2f-A29B-233BB6926585}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={D7358694-5BF4-4254-961E-B5B3CD7ADDB3}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={185D811A-D963-4f2f-A29B-233BB6926585}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1747,6 +1768,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-20 15:16:41" modified="2010-01-20 15:16:47" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={B227AB56-59A3-4690-AEEA-13842D80BED8}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=interface;GUID={D521F589-6398-4074-BA0E-92BD51BC241C};@ENDSTEREO;$DES;$CLT={61600E07-65A2-459f-8ED8-1EABEB08A3BF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={9A71DCE1-9FFE-41f7-A327-9989E9957E4C}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={61600E07-65A2-459f-8ED8-1EABEB08A3BF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="GML"/>
@@ -1757,13 +1779,14 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-03-25 12:13:56" modified="2016-05-26 10:26:27" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_8B319073_0909_4d7b_A3AC_24240BD473AC" name="gmlProfileSchema" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
 					<tag xmi:id="EAID_B5716091_AFF3_441a_9BAD_1545384FF0C9" name="id" value="NL.TOP100NL.0" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
 					<tag xmi:id="EAID_DA0EB2F9_7C0E_49eb_9B1E_F53B2F9411D3" name="targetNamespace" value="http://register.geostandaarden.nl/gmlapplicatieschema/top100nl/1.1.0" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
 					<tag xmi:id="EAID_36208C35_EB8A_40da_8579_9857C3C046E4" name="version" value="1.1" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
 					<tag xmi:id="EAID_E8789CD3_95EB_4ecb_8FC8_64A2256586C8" name="xmlns" value="top100nl" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
-					<tag xmi:id="EAID_D834FFD7_3106_4c3a_9770_AF7BADECD88B" name="xsdDocument" value="top100nl_1_1.xsd" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
+					<tag xmi:id="EAID_D834FFD7_3106_4c3a_9770_AF7BADECD88B" name="xsdDocument" value="top100nl.xsd" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
 					<tag xmi:id="EAID_A6F241A0_2A1C_4067_B61D_ACD4FE80300B" name="xsdEncodingRules" value="iso19136_2007" modelElement="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C"/>
 				</tags>
 				<xrefs value="$XREFPROP=$XID={EC1CC60E-E29E-4a87-A6F9-18B890BE7665}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=applicationSchema;GUID={770C5775-8C96-46b1-BE6E-FABB07A8507E};FQName=NEN3610::applicationSchema;@ENDSTEREO;$DES;$CLT={6A5BEE3A-ADD9-4228-8843-A1D3E865685C}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
@@ -1779,6 +1802,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-03 13:28:17" modified="2016-05-26 10:26:38" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_92B71340_A67B_4931_A509_B0F92324CB3E" name="isCollection" value="true" modelElement="EAID_2C9CD863_CDC9_4696_808B_8413844DD153"/>
 				</tags>
@@ -1794,6 +1818,7 @@
 				<project author="Gerard Busschers" version="1.0" phase="1.0" created="2013-05-08 14:27:09" modified="2014-10-13 15:05:12" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={BFD1B91B-FE21-47cd-A638-051B97C45CCA}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={4F400221-2BA8-4968-A876-5B0276331557}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -1869,6 +1894,7 @@
 				<project author="busscg" version="1.0" phase="1.0" created="2013-05-08 15:01:41" modified="2013-07-08 16:29:09" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={EB54240F-2C13-4043-AC22-570D1E090B7E}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={5AE86D45-4731-437d-8FE3-E068E3D0EA72}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -1989,6 +2015,7 @@
 				<project author="Gerard Busschers" version="1.0" phase="1.0" created="2013-05-08 14:30:08" modified="2015-04-23 09:22:58" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={ED2C3AC5-8DC3-4aca-B81A-167296D577E2}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={3847EFF9-0A0F-4f15-B4E1-8B11A18ADB9D}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -2094,6 +2121,7 @@
 				<project author="Gerard Busschers" version="1.0" phase="1.0" created="2013-05-08 11:07:58" modified="2013-07-08 16:52:00" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={166F2DB7-2DB1-49e6-B79B-DCDDECA3D275}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={948F9241-69E1-4c40-BD18-EC2D373700C8}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -2214,6 +2242,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-12 16:29:51" modified="2013-04-29 21:37:35" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_4270F6B0_C4FA_4a48_9854_1B965BEB6DB8" name="noPropertyType" value="false" modelElement="EAID_5E2B786C_B484_4ed1_A054_B623220AA0EB"/>
 				</tags>
@@ -2258,6 +2287,7 @@
 				<project author="Gerard Busschers" version="1.0" phase="1.0" created="2013-05-08 10:40:34" modified="2013-07-09 16:17:36" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={CAA8EF3F-5FC1-47eb-BD2E-A3416E086E06}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={8FA83358-4830-47ba-89F5-39D97B9B36E4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -2348,6 +2378,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2006-05-23 17:00:55" modified="2013-07-09 16:23:33" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={4E1BAE50-1DFA-4a09-B895-5522F7835E0F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=FeatureType;GUID={B5893767-E739-4c40-BB31-9A50215A1168};FQName=GML::FeatureType;@ENDSTEREO;$DES;$CLT={A3F1E51E-DC81-4d72-8696-50C60B8A856C}$CLT;$ENDXREF;$XREFPROP=$XID={A1288599-D6E7-49e8-8A6E-F9AE8209416C}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={A3F1E51E-DC81-4d72-8696-50C60B8A856C}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1" eventflags="LNK=26d9;ATT=f987;"/>
@@ -2468,6 +2499,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-04-12 14:21:16" modified="2015-04-21 18:12:20" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={FA266770-E32A-441a-934F-17048643611D}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={03D2CAC8-C288-4d80-B102-9FD0B37A8703};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={0F60C9DC-C6EA-481c-90C1-77F551DCB1E5}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -2573,6 +2605,7 @@
 				<project author="Peter Lentjes" created="2006-05-23 17:00:54" modified="2013-07-08 16:45:14" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={3E46A326-D5AA-4507-8088-B3E8DD07667D}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={F617FEF3-D44F-4394-92C0-E9B8D28CAB32}$CLT;$ENDXREF;$XREFPROP=$XID={A9117CEC-F99A-44a6-A8F6-49B2878C4722}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={F617FEF3-D44F-4394-92C0-E9B8D28CAB32}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1" eventflags="LNK=078c;ATT=667d;"/>
@@ -2618,6 +2651,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-22 14:04:30" modified="2013-07-09 13:15:34" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={AFB10B37-6A84-4537-8C62-E51C1A985B66}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=union;GUID={918E0956-CC66-408d-8DDE-B50638021677};FQName=NEN3610::union;@ENDSTEREO;$DES;$CLT={BD31F963-3D32-44a1-8EA4-7A3EF7C980F1}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1" ea_attsclassified="{2BA3C82B-AD83-4254-A8B8-1BDB7AD1384E},{DF7BE851-724C-4a97-8E19-618225EB655F}"/>
@@ -2675,6 +2709,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-12 16:36:53" modified="2013-04-29 21:37:48" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_CD6DE4A7_F9D1_4f93_8180_D17A6D7FBA8C" name="noPropertyType" value="false" modelElement="EAID_28D8B4CA_F27D_4513_802E_041B1D8B78C6"/>
 				</tags>
@@ -2719,6 +2754,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-05-23 09:09:12" modified="2013-05-23 09:10:03" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={88D4E917-81D6-462e-B937-35ED95E1DE8F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=union;GUID={918E0956-CC66-408d-8DDE-B50638021677};FQName=NEN3610::union;@ENDSTEREO;$DES;$CLT={3EFBC143-7CB4-44b7-AB2D-7554E291CC86}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1" ea_attsclassified="{A0FFE524-1F8D-4881-B0C2-363C131612C7}"/>
@@ -2761,6 +2797,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-23 09:36:55" modified="2013-05-23 09:37:22" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={95957664-8F4E-4747-91FC-6AEC3D2BA366}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=union;GUID={918E0956-CC66-408d-8DDE-B50638021677};FQName=NEN3610::union;@ENDSTEREO;$DES;$CLT={11DC691A-080B-4013-B19C-B69CA65F130E}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1" ea_attsclassified="{35F95C54-C44A-4a32-8FF8-445696ED4B74}"/>
@@ -2803,6 +2840,7 @@
 				<project author="Peter Lentjes" created="2006-05-23 17:00:54" modified="2013-07-10 10:22:37" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=13434828;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={F95EB8F4-87A5-463e-8799-0564CDFA777B}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={9F5468C5-92C9-4282-956F-227E4349933A};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={36ABBA2B-D853-4fb0-817F-A15068C6FF5B}$CLT;$ENDXREF;$XREFPROP=$XID={96D5743C-7806-427c-8811-F43253639CB4}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={36ABBA2B-D853-4fb0-817F-A15068C6FF5B}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1" eventflags="LNK=44fe;ATT=0c9c;"/>
@@ -2893,6 +2931,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-03-19 13:24:37" modified="2016-05-26 10:53:17" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={9AAAFAA0-7DF7-445f-ABA2-95D60D016E94}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={03D2CAC8-C288-4d80-B102-9FD0B37A8703};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={55BABE72-2B86-41a9-B881-ECAABE6D444E}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -3039,6 +3078,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-25 13:26:37" modified="2013-09-05 11:52:52" complexity="1"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={3F49C97C-F04D-4c9a-8199-81AF1410681B}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={03D2CAC8-C288-4d80-B102-9FD0B37A8703};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={F536728F-5D3B-409b-8349-29803069CD75}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -3099,6 +3139,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-25 13:15:32" modified="2014-10-21 14:00:07" complexity="1"/>
 				<code gentype="GML"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={1816233D-C7AA-41e0-99E5-9ABC322A1EB6}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={03D2CAC8-C288-4d80-B102-9FD0B37A8703};FQName=NEN3610::featureType;@ENDSTEREO;$DES;$CLT={E7D9E83E-9E27-4626-AE24-055286E940A5}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -3414,6 +3455,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:30:06" modified="2014-10-22 10:02:13" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_7A282F76_ACE8_45ac_9444_7B00564A2E59" name="noPropertyType" value="true" modelElement="EAID_3A17C855_63BB_4634_8058_6B611FA11904"/>
 				</tags>
@@ -3473,6 +3515,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-03-25 13:53:32" modified="2013-03-25 13:53:59" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={15902D07-1836-46e1-9362-AA876BEBC024}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=leaf;GUID={4AFED343-5084-4877-A474-5E0BD957E326};@ENDSTEREO;$DES;$CLT={D1893457-BB75-446e-9231-88A84BFBADD3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="TOP100NLv1.1"/>
@@ -3487,6 +3530,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2006-05-23 17:00:55" modified="2016-05-26 10:50:56" complexity="1"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={31C80851-C15E-4668-AF99-3D6F26152D07}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={0D3F0793-3BF9-4ceb-B867-CBCD642A5A6F}$CLT;$ENDXREF;$XREFPROP=$XID={81E2A953-A822-420a-A89F-9F7459E78BDA}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={0D3F0793-3BF9-4ceb-B867-CBCD642A5A6F}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{8EACF092-7727-4251-A12E-053E6011E57C}"/>
@@ -3544,6 +3588,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2006-05-23 17:00:56" modified="2016-05-26 10:50:59" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={54AE5E65-B80A-4de1-96E2-36933D0581B0}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={2A58E4A2-2821-4059-A91F-66E73B6E2435}$CLT;$ENDXREF;$XREFPROP=$XID={6C9FD10C-35C4-4fae-BA71-A472C104D375}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={2A58E4A2-2821-4059-A91F-66E73B6E2435}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{4F93BBBE-3B31-4e6c-8347-518EA0AD18BA}"/>
@@ -3571,6 +3616,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:04" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={AB38061B-4FC2-46e1-B6DF-89003195234B}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={15A5ED11-EC2F-4ae9-918F-8361ED07566D}$CLT;$ENDXREF;$XREFPROP=$XID={4439B370-E25E-4577-B1FC-E58A5ECD3A7E}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={15A5ED11-EC2F-4ae9-918F-8361ED07566D}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{A3369FE4-99F9-4cf9-9ABD-96177C7F17D8}"/>
@@ -3598,6 +3644,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:08" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={9F40C8EE-06A3-4178-97B0-A04E46828BD1}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};FQName=EAUML::enumeration;@ENDSTEREO;$DES;$CLT={2B07BD4E-7B38-4277-8A0D-11484A290F06}$CLT;$ENDXREF;$XREFPROP=$XID={D2086513-0285-4a2e-961B-2AEEEC3ACF18}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={2B07BD4E-7B38-4277-8A0D-11484A290F06}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{BAA3EE00-A6F1-409a-A119-2562F98B1BD4}"/>
@@ -3670,6 +3717,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-28 14:38:58" modified="2016-05-26 10:51:12" complexity="1"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_587EE9D0_002B_4bee_828F_77B6040BF85D" name="asDictionary" value="true" modelElement="EAID_33DA3025_4576_449c_B8E4_F06B42A683B4"/>
 					<tag xmi:id="EAID_AE9A3B57_4C21_b94c_B245_1EB8384F33AE" name="codeList" modelElement="EAID_33DA3025_4576_449c_B8E4_F06B42A683B4"/>
@@ -3790,6 +3838,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-26 16:46:09" modified="2016-05-26 10:51:15" complexity="1"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_4A9D5F26_92B2_4b68_A80F_ADE95FD08F8F" name="asDictionary" value="true" modelElement="EAID_B190321F_D59F_4acb_AEC5_20E7F7AFFE72"/>
 					<tag xmi:id="EAID_FD0D27E2_C4B9_4071_B748_B5A87B59131A" name="codeList" modelElement="EAID_B190321F_D59F_4acb_AEC5_20E7F7AFFE72"/>
@@ -3912,6 +3961,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-26 15:41:06" modified="2016-05-26 10:51:19" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={50648535-5FAC-4ce4-93B8-5ED639AFD275}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=enumeration;GUID={A4FF5610-BCCD-41ed-A88E-35A345A98907};@ENDSTEREO;$DES;$CLT={D740E88F-3417-4ace-8ED1-F9371CFF5F34}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{6D21FF01-E9D5-4e09-A6C4-50351A33EA3F}"/>
@@ -4029,6 +4079,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:23" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={EC22DEA9-2C02-4d4b-BE07-105468D65A18}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={0808536F-FDE2-4d2c-B331-3987D761A1FA}$CLT;$ENDXREF;$XREFPROP=$XID={FCD732CB-2140-483a-BD3B-07660B26660B}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={0808536F-FDE2-4d2c-B331-3987D761A1FA}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{A8DEFF23-72C3-48ca-A801-5D3813ABDEB7}"/>
@@ -4071,6 +4122,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2006-05-23 17:00:56" modified="2016-05-26 10:51:27" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E543C5F4-3FC8-47ce-ABFD-B8255DD51537}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={8F3A5678-459F-4579-B20B-CE9EA86AD422}$CLT;$ENDXREF;$XREFPROP=$XID={60D917B0-5234-4155-86E4-C1B559DCF21C}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={8F3A5678-459F-4579-B20B-CE9EA86AD422}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{2C68FFB4-6271-4648-9A0D-81C19EB878E5}"/>
@@ -4128,6 +4180,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-26 15:47:27" modified="2016-05-26 10:51:30" complexity="1"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={47AE091C-7D09-4492-BCCC-7FCCFC2286EE}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=enumeration;GUID={A4FF5610-BCCD-41ed-A88E-35A345A98907};@ENDSTEREO;$DES;$CLT={D40DA46F-4DA8-437d-9103-B5819BE5E1F4}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{9C277977-AEB8-4043-BA04-57261856F752},{0F09107C-B390-418c-A979-4DA50FD9B79F}"/>
@@ -4215,6 +4268,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-03-25 13:52:35" modified="2016-05-26 10:51:34" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_8D3D7700_D56C_40ba_BA9E_564352C1D8E5" name="asDictionary" value="true" modelElement="EAID_5E2ADE58_3CD9_4497_ADD7_C32F553E78B6"/>
 					<tag xmi:id="EAID_AE9A3B57_4C21_b94c_9955_4EEB40545CC9" name="codeList" modelElement="EAID_5E2ADE58_3CD9_4497_ADD7_C32F553E78B6"/>
@@ -4260,6 +4314,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:38" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_F707BE69_9C07_4c62_BCCC_227FDA89AF2F" name="asDictionary" value="true" modelElement="EAID_CD020C04_8274_41dc_9484_6CBF586294CC"/>
 				</tags>
@@ -4949,6 +5004,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:41" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_DD5D932E_6ADE_460f_94BA_AE678FD0FA35" name="asDictionary" value="true" modelElement="EAID_15400000_FCDB_4056_A9A8_F81622576231"/>
 				</tags>
@@ -6208,6 +6264,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:44" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={67F38A5E-5E17-44d4-BE48-38F1C20C15B6}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={677C44E5-6606-459c-9CF8-DF1EAD2491D8}$CLT;$ENDXREF;$XREFPROP=$XID={73A290E9-EFE7-4afb-A8A2-ED0E26A8618A}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={677C44E5-6606-459c-9CF8-DF1EAD2491D8}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{3120680B-719E-43f9-B1A8-1F273898F3CE}"/>
@@ -6385,6 +6442,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-28 14:40:48" modified="2016-05-26 10:51:48" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_FF1E1594_0DF5_47fa_A812_E2ACA9E13DF6" name="asDictionary" value="true" modelElement="EAID_DF8FCC65_6032_4735_99E2_B0829BCF77F7"/>
 					<tag xmi:id="EAID_AE9A3B57_4C21_b94c_B971_49A1F54A5682" name="codeList" modelElement="EAID_DF8FCC65_6032_4735_99E2_B0829BCF77F7"/>
@@ -6520,6 +6578,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-26 16:14:33" modified="2016-05-26 10:51:51" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={1CAF005A-C7AB-4c00-875A-CABA1E0B00D3}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=enumeration;GUID={A4FF5610-BCCD-41ed-A88E-35A345A98907};@ENDSTEREO;$DES;$CLT={9ED091B9-2198-48a9-A59E-5D511925D3AA}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{518B2C54-301F-403c-AE7A-76DBDA2AD44A}"/>
@@ -6562,6 +6621,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:51:54" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={68FF02B7-45F4-4a83-8392-8E20452BA639}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={1ACDD12E-3930-4b3a-99A8-72EADA18B12C}$CLT;$ENDXREF;$XREFPROP=$XID={66A8E024-EFED-4733-9774-7DA99598CB98}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={1ACDD12E-3930-4b3a-99A8-72EADA18B12C}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{5BBCB68E-A3C6-45c0-9E42-220B1D8F2145}"/>
@@ -7474,6 +7534,7 @@
 				<project author="Peter  Lentjes" version="1.0" phase="1.0" created="2006-05-23 17:00:55" modified="2016-05-26 10:51:57" complexity="1"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={F819D043-F797-4ffc-AB44-5D6567634C79}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};FQName=EAUML::enumeration;@ENDSTEREO;$DES;$CLT={BA306DD0-AE20-4510-B1BC-64DADD88C301}$CLT;$ENDXREF;$XREFPROP=$XID={D6665979-0A00-407b-8600-045E7757F5C2}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={BA306DD0-AE20-4510-B1BC-64DADD88C301}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{CE407A14-4B66-4767-973C-35B15A5606C9}"/>
@@ -7801,6 +7862,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:52:00" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={3B382D9D-416C-4bfd-8ED1-02526B54DFF4}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};FQName=EAUML::enumeration;@ENDSTEREO;$DES;$CLT={60B6CDE0-989C-4218-BC8A-A794C29C15D3}$CLT;$ENDXREF;$XREFPROP=$XID={FBACD35A-FA20-41be-91AB-C1A3F1E7B010}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={60B6CDE0-989C-4218-BC8A-A794C29C15D3}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{AE80AF3E-673F-4c35-AB0A-CD2DAC49B50D}"/>
@@ -7873,6 +7935,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2006-05-23 17:00:56" modified="2016-05-26 10:52:04" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={B6DFF12E-3A62-4872-BABB-853A1F98B962}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={73C7A695-7B9E-40f3-8DDE-FE68DFBFAFA9}$CLT;$ENDXREF;$XREFPROP=$XID={AF8A75CD-2612-424e-80D2-5800F8101E99}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={73C7A695-7B9E-40f3-8DDE-FE68DFBFAFA9}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{22BE7FE7-DF6E-4f2f-BD6F-421EAE015E97}"/>
@@ -7945,6 +8008,7 @@
 				<project created="2006-05-23 17:00:55" modified="2016-05-26 10:52:07" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E301CAD1-BF1C-4aa1-BCFC-4F1C26AF957E}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=enumeration;GUID={12711487-88A0-47e3-8604-5A92BE6E6A47};@ENDSTEREO;$DES;$CLT={7968A276-D355-4310-AE63-2D3BC55C5391}$CLT;$ENDXREF;$XREFPROP=$XID={6F06F6AC-3983-4436-B0B8-6CA40CE2B9AC}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={7968A276-D355-4310-AE63-2D3BC55C5391}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{3CE1D69C-97A1-4406-AA20-0A73FFE5EC21}"/>
@@ -8017,6 +8081,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-04-26 15:46:47" modified="2016-05-26 10:52:10" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={EBF6CCDD-2976-49f7-8AC3-8A5A2E0DBF8C}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=enumeration;GUID={A4FF5610-BCCD-41ed-A88E-35A345A98907};FQName=EAUML::enumeration;@ENDSTEREO;$DES;$CLT={C4CE6F40-7777-4115-B81C-3B0FE33DB7F0}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{0FA539EE-8E69-4aaf-957A-16E84A2AD4FB}"/>
@@ -8089,6 +8154,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-28 14:40:48" modified="2016-05-26 10:52:13" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_FF1E1594_0DF5_47fa_BCC2_6B88000DFEB7" name="asDictionary" value="true" modelElement="EAID_903BC38B_8DFD_4fc5_9806_B4BE7DF169BC"/>
 					<tag xmi:id="EAID_AE9A3B57_4C21_b94c_BB53_BD39F6CC92B7" name="codeList" modelElement="EAID_903BC38B_8DFD_4fc5_9806_B4BE7DF169BC"/>
@@ -8209,6 +8275,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-03-25 16:28:39" modified="2016-05-26 10:52:16" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_C333589E_B096_4eac_A27B_A30D637F8F58" name="asDictionary" value="true" modelElement="EAID_2E6EDA2A_90DF_479f_B0B7_1877A00E9803"/>
 					<tag xmi:id="EAID_AE9A3B57_4C21_b94c_832F_46BF0662A6AA" name="codeList" modelElement="EAID_2E6EDA2A_90DF_479f_B0B7_1877A00E9803"/>
@@ -8404,6 +8471,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-26 15:45:01" modified="2016-05-26 10:52:18" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={703CFDC2-86FA-46de-B2E4-4F682430ECBD}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=enumeration;GUID={A4FF5610-BCCD-41ed-A88E-35A345A98907};@ENDSTEREO;$DES;$CLT={E7334D71-E2BD-4ad5-B985-877402447DDF}$CLT;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{2AFB3A8D-5A59-4d2e-8197-7FD7F16C86E1}"/>
@@ -8476,6 +8544,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2014-10-21 13:58:21" modified="2014-10-21 13:59:02" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={0E99D33B-68F6-406c-B0E3-F81224D85B88}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=enumeration;GUID={87DF2C42-B481-4052-8D2B-D521F4659602};FQName=NEN3610::enumeration;@ENDSTEREO;$DES;$CLT={16D4D77F-2C6D-4d9b-9995-6C93B8C8D357}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="Waardelijsten" ea_attsclassified="{381E5425-9094-49e1-B079-90DDF6478EF0}"/>
@@ -8518,6 +8587,7 @@
 				<project author="Peter" version="1.0" phase="1.0" created="2013-04-28 21:39:10" modified="2013-07-10 10:25:07" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8528,6 +8598,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-24 13:18:34" modified="2013-07-10 10:25:21" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8538,6 +8609,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-24 13:29:52" modified="2013-05-24 13:29:59" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8548,6 +8620,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-24 13:40:58" modified="2013-05-24 13:41:05" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8558,6 +8631,7 @@
 				<project author="Peter" version="1.0" phase="1.0" created="2013-04-28 21:40:52" modified="2013-07-10 10:25:14" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8568,6 +8642,7 @@
 				<project author="Peter" version="1.0" phase="1.0" created="2013-04-28 21:41:43" modified="2013-04-28 21:41:50" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8578,6 +8653,7 @@
 				<project author="lentjp" version="1.0" phase="1.0" created="2013-05-24 13:30:31" modified="2013-05-24 13:30:47" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8588,6 +8664,7 @@
 				<project author="Peter Lentjes" version="1.0" phase="1.0" created="2013-04-28 21:42:29" modified="2013-05-24 13:27:15" complexity="1" status="Proposed"/>
 				<code gentype="&lt;none&gt;"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=3;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs/>
 				<extendedProperties tagged="0" package_name="Waardelijsten"/>
@@ -8598,6 +8675,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-01-18 22:23:04" modified="2010-01-21 21:42:11" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_47D147EC_EB54_49cf_9D00_871C0C406D94" name="gmlProfileSchema" value="#NOTES#Description: -- Definition --&#xA;A GML profile may be associated with the application schema by a tagged value 'gmlProfileSchema'. If provided, the value shall be a URL referencing the schema location of the GML profile. &#xA;-- Source --&#xA;GML3.2.1&#xA;" modelElement="EAID_4091EBBE_3FF0_4044_9363_473F03A365CF"/>
 					<tag xmi:id="EAID_351E3100_5C8B_4494_BDE9_444711C300B6" name="targetNamespace" value="NVT#NOTES#Default: FIXME&#xA;Description: -- Definition --&#xA;A unique XML namespace shall be associated with the UML Application Schema. Tagged values 'targetNamespace' for the target namespace URI and 'xmlns' for the abbreviation shall be set if and only if the package represents a UML application schema. &#xA;-- Source --&#xA;GML3.2.1&#xA;" modelElement="EAID_4091EBBE_3FF0_4044_9363_473F03A365CF"/>
@@ -8620,6 +8698,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:43:44" modified="2013-04-09 14:17:08" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={BEF638F4-839C-4854-8158-28F23B9929E1}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=type;GUID={3D989F60-7158-422a-9186-8057F1DAA063};@ENDSTEREO;$DES;$CLT={3875333F-BB7F-4294-B348-1EE8DFF10714}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={5EA5C6B9-D969-4681-8C9C-8D85F1F41F64}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={3875333F-BB7F-4294-B348-1EE8DFF10714}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610"/>
@@ -8647,6 +8726,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:39:44" modified="2010-05-27 09:54:02" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={871FADAF-F300-4cdd-9BDA-30C74BDE39D8}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=type;GUID={3D989F60-7158-422a-9186-8057F1DAA063};@ENDSTEREO;$DES;$CLT={9F6A39B2-29AD-4a33-8E74-BD86CB6EA6CB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={031A3788-86DD-444e-968D-0B191E80A7AD}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={9F6A39B2-29AD-4a33-8E74-BD86CB6EA6CB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610"/>
@@ -8689,6 +8769,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:37:16" modified="2013-04-09 14:21:46" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={1429CBE8-E475-410a-B3F0-22F1C040CF83}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=type;GUID={3D989F60-7158-422a-9186-8057F1DAA063};@ENDSTEREO;$DES;$CLT={C24917DB-32E8-4f6e-AA57-BBEE4D2D6C22}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={5D73E630-C043-4c84-A939-05D84CD42DBA}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={C24917DB-32E8-4f6e-AA57-BBEE4D2D6C22}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610"/>
@@ -8731,6 +8812,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:41:20" modified="2013-04-09 14:24:34" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E79CF7C4-CEEF-40dd-8117-8DF55692FED1}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=type;GUID={3D989F60-7158-422a-9186-8057F1DAA063};@ENDSTEREO;$DES;$CLT={A734CEEA-B2B0-44a4-ADE3-AB0CAAEF36FB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={E7B2FE02-C939-40ac-91B9-24B56F2D6799}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={A734CEEA-B2B0-44a4-ADE3-AB0CAAEF36FB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610"/>
@@ -8773,6 +8855,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:42:35" modified="2013-04-09 14:22:36" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={808880F0-F99B-4a34-9D98-8CEC10BCD34C}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=type;GUID={3D989F60-7158-422a-9186-8057F1DAA063};@ENDSTEREO;$DES;$CLT={7B870C2A-BFA2-48fe-84AE-01082E8CCBD4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={4BD9552D-BB37-4f91-8D62-FADEFFDFD48A}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={7B870C2A-BFA2-48fe-84AE-01082E8CCBD4}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610"/>
@@ -8815,6 +8898,7 @@
 				<project author="pjanssen" version="1.0" phase="1.0" created="2010-04-12 14:30:06" modified="2013-04-26 12:30:16" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_7A282F76_ACE8_45ac_82C1_E049460B1601" name="noPropertyType" value="true" modelElement="EAID_36248641_9EBD_49bc_881B_BE7AC17CAD70"/>
 				</tags>
@@ -8874,6 +8958,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2010-02-08 15:07:11" modified="2011-03-15 16:14:04" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags>
 					<tag xmi:id="EAID_AE9A3B57_4C21_b94c_8314_721087BC067F" name="codeList" modelElement="EAID_A0833E9A_1A33_45f1_B9BD_A6C1854DDCCC"/>
 				</tags>
@@ -8963,6 +9048,7 @@
 				<project created="2006-05-11 09:32:25" modified="2013-04-09 11:14:13" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={2C32DC94-F60D-4d85-B11A-71F197CB04C4}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={8E84C022-E76F-4690-89FA-7BAD05CC29EF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={51466317-8D9F-43a5-9462-D83CDB56136F}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={8E84C022-E76F-4690-89FA-7BAD05CC29EF}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=2b3f;ATT=b9b0;"/>
@@ -8987,6 +9073,7 @@
 				<project created="2006-05-11 09:32:26" modified="2011-03-15 16:29:11" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=14938876;BorderColor=-1;BorderWidth=1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={DC22433D-55C0-49c9-BBF8-40EC237678EE}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={7E5A680D-D31E-49c4-BD5A-C87B0E160E67}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={0C19D813-26BF-4e79-A93C-05BA7DDEC2D4}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={7E5A680D-D31E-49c4-BD5A-C87B0E160E67}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=f502;"/>
@@ -9000,6 +9087,7 @@
 				<project created="2006-05-11 09:32:25" modified="2011-03-15 16:22:08" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={AB275996-C449-48e4-A6A8-57F3861D32A5}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={0D4D2B08-BA3D-46b1-9DFE-4F802B437655}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={B3533D3E-2396-4128-B948-1C5190CAC584}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={0D4D2B08-BA3D-46b1-9DFE-4F802B437655}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=d90e;"/>
@@ -9013,6 +9101,7 @@
 				<project created="2006-05-11 09:32:26" modified="2011-03-15 16:27:57" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E5072B3D-8BC3-4256-B8B7-B62491DBD24A}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={807F1BF4-5937-4238-AB94-993931E5F960}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={CC86E180-3210-44d9-B559-B0679362DB79}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={807F1BF4-5937-4238-AB94-993931E5F960}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=e985;"/>
@@ -9026,6 +9115,7 @@
 				<project created="2006-05-11 09:32:26" modified="2011-03-15 16:25:10" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={FE92CB64-734A-4481-BD01-DF28B12B8180}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={9886AF53-2AD3-41e9-A92C-BFC11ACCF8EB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={E040E09C-1B7A-47cb-9818-1BB972685F77}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={9886AF53-2AD3-41e9-A92C-BFC11ACCF8EB}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=9d2b;"/>
@@ -9039,6 +9129,7 @@
 				<project author="Wilko Quak" version="1.0" phase="1.0" created="2009-03-02 16:29:50" modified="2011-03-15 16:23:44" complexity="1"/>
 				<code gentype="Java"/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={05F8640F-36F6-44b0-B27C-E06F9829C715}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$PAR=0$PAR;$DES=@STEREO;Name=featureType;GUID={A47F00E0-CC9C-4e9f-8B18-0AFC7ACF1774};@ENDSTEREO;$DES;$CLT={5C4BD7CF-6995-442e-ADFA-51B90C9711BE}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={38450B75-4867-46be-B885-0F2089D815CB}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={5C4BD7CF-6995-442e-ADFA-51B90C9711BE}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=86bc;"/>
@@ -9052,6 +9143,7 @@
 				<project created="2006-05-11 09:32:25" modified="2011-03-15 16:22:41" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={73980F57-C8AD-410b-9194-6751FEBCB06A}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={B732AF9D-1C11-4643-ABC2-4C62DC7788E3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={2F6370A1-44F5-4cc1-BDE8-1F274994BB48}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={B732AF9D-1C11-4643-ABC2-4C62DC7788E3}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=5528;"/>
@@ -9065,6 +9157,7 @@
 				<project created="2006-05-11 09:32:25" modified="2011-03-15 16:30:12" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={E38032C3-B9A2-48da-93D8-0B6FB29DBB7A}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={BF50EBD1-200F-41a3-B366-CFDA4FDAC3A9}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={8118C694-D913-4114-856E-6C4AB4BD1B40}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={BF50EBD1-200F-41a3-B366-CFDA4FDAC3A9}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=c312;"/>
@@ -9078,6 +9171,7 @@
 				<project created="2006-05-11 09:32:25" modified="2011-03-15 16:26:51" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={98AB9932-A2DA-4a66-977D-80252BB7A0F7}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={BB278B4C-34EE-47c8-A43A-EFEDEC5BAA9A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={A624D0D4-FEF0-43b5-8D9E-66B5C341C8C1}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={BB278B4C-34EE-47c8-A43A-EFEDEC5BAA9A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=6286;"/>
@@ -9091,6 +9185,7 @@
 				<project created="2006-05-11 09:32:26" modified="2011-03-15 16:21:21" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={5DAC7421-3233-4c53-B992-7B75D6045945}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={FCC588FA-DB97-46dc-BEAA-5B415B08528A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={7DCBA1A8-B876-44f3-A923-BE9AC00A46FF}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={FCC588FA-DB97-46dc-BEAA-5B415B08528A}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=a982;"/>
@@ -9104,6 +9199,7 @@
 				<project created="2006-05-11 09:32:25" modified="2011-03-15 16:19:51" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={6F0F55DB-5FD2-4aed-94CA-FB1A203EDDEC}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={3ACD7306-5922-4553-BE49-31583828C019}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={A606A7BC-4F0C-4e04-95CD-C3CB7DB77B0F}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={3ACD7306-5922-4553-BE49-31583828C019}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=88d7;"/>
@@ -9117,6 +9213,7 @@
 				<project created="2006-05-11 09:32:26" modified="2011-03-15 16:20:45" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={6FC0CCC4-908B-471f-A8F8-F9D41D51984B}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={32C84DEF-2E62-42e4-ABE0-B95382C6E607}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={37C960E7-88C5-4cf5-9936-C847B94971EC}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={32C84DEF-2E62-42e4-ABE0-B95382C6E607}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=9b1b;"/>
@@ -9130,6 +9227,7 @@
 				<project created="2006-05-11 09:32:26" modified="2011-03-15 16:18:25" complexity="1"/>
 				<code/>
 				<style appearance="BackColor=-1;BorderColor=-1;BorderWidth=-1;FontColor=-1;VSwimLanes=1;HSwimLanes=1;BorderStyle=0;"/>
+				<modelDocument/>
 				<tags/>
 				<xrefs value="$XREFPROP=$XID={CA6239CA-EC5E-4c29-A24A-468A0F79309F}$XID;$NAM=Stereotypes$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@STEREO;Name=featureType;GUID={62041761-192C-4d79-9CA6-54E0C0843D08};@ENDSTEREO;$DES;$CLT={8CF8CF84-0D54-4f88-B532-461E58236772}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;$XREFPROP=$XID={3BEC985D-07F2-443d-8EC3-4EF012130F9A}$XID;$NAM=CustomProperties$NAM;$TYP=element property$TYP;$VIS=Public$VIS;$DES=@PROP=@NAME=isActive@ENDNAME;@TYPE=Boolean@ENDTYPE;@VALU=@ENDVALU;@PRMT=@ENDPRMT;@ENDPROP;$DES;$CLT={8CF8CF84-0D54-4f88-B532-461E58236772}$CLT;$SUP=&lt;none&gt;$SUP;$ENDXREF;"/>
 				<extendedProperties tagged="0" package_name="nen3610" eventflags="LNK=b4a8;"/>
@@ -10391,28 +10489,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Object_business worker" name="A_Object_business worker" memberEnd="extension_business worker business worker-base_Object">
 					<ownedEnd xmi:id="extension_business worker" name="extension_business worker" type="business worker" isComposite="true" lower="0" upper="1" memberEnd="extension_business worker business worker-base_Object"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="trigger" name="trigger">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="trigger-base_Operation" name="base_Operation" association="Operation_trigger">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_trigger" name="A_Operation_trigger" memberEnd="extension_trigger trigger-base_Operation">
-					<ownedEnd xmi:id="extension_trigger" name="extension_trigger" type="trigger" isComposite="true" lower="0" upper="1" memberEnd="extension_trigger trigger-base_Operation"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="FK" name="FK">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="FK-base_Operation" name="base_Operation" association="Operation_FK">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="FK-base_Association" name="base_Association" association="Association_FK">
-						<type href="http://schema.omg.org/spec/UML/2.1/Association"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_FK" name="A_Operation_FK" memberEnd="extension_FK FK-base_Operation">
-					<ownedEnd xmi:id="extension_FK" name="extension_FK" type="FK" isComposite="true" lower="0" upper="1" memberEnd="extension_FK FK-base_Operation"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Association_FK" name="A_Association_FK" memberEnd="extension_FK FK-base_Association">
-					<ownedEnd xmi:id="extension_FK" name="extension_FK" type="FK" isComposite="true" lower="0" upper="1" memberEnd="extension_FK FK-base_Association"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="column" name="column">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="column-base_Attribute" name="base_Attribute" association="Attribute_column">
 						<type href="http://schema.omg.org/spec/UML/2.1/Attribute"/>
@@ -10421,22 +10497,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Attribute_column" name="A_Attribute_column" memberEnd="extension_column column-base_Attribute">
 					<ownedEnd xmi:id="extension_column" name="extension_column" type="column" isComposite="true" lower="0" upper="1" memberEnd="extension_column column-base_Attribute"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="check" name="check">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="check-base_Operation" name="base_Operation" association="Operation_check">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_check" name="A_Operation_check" memberEnd="extension_check check-base_Operation">
-					<ownedEnd xmi:id="extension_check" name="extension_check" type="check" isComposite="true" lower="0" upper="1" memberEnd="extension_check check-base_Operation"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="EAWorkingSet" name="EAWorkingSet">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="EAWorkingSet-base_Artifact" name="base_Artifact" association="Artifact_EAWorkingSet">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_EAWorkingSet" name="A_Artifact_EAWorkingSet" memberEnd="extension_EAWorkingSet EAWorkingSet-base_Artifact">
-					<ownedEnd xmi:id="extension_EAWorkingSet" name="extension_EAWorkingSet" type="EAWorkingSet" isComposite="true" lower="0" upper="1" memberEnd="extension_EAWorkingSet EAWorkingSet-base_Artifact"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="internal worker" name="internal worker">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="internal worker-base_Object" name="base_Object" association="Object_internal worker">
 						<type href="http://schema.omg.org/spec/UML/2.1/Object"/>
@@ -10444,28 +10504,6 @@ Versie NEN 3610: 2011
 				</packagedElement>
 				<packagedElement xmi:type="uml:Extension" xmi:id="Object_internal worker" name="A_Object_internal worker" memberEnd="extension_internal worker internal worker-base_Object">
 					<ownedEnd xmi:id="extension_internal worker" name="extension_internal worker" type="internal worker" isComposite="true" lower="0" upper="1" memberEnd="extension_internal worker internal worker-base_Object"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="database connection" name="database connection">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="database connection-base_Artifact" name="base_Artifact" association="Artifact_database connection">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="database connection-OtherSchemas" name="OtherSchemas">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="database connection-ConnectionOptions" name="ConnectionOptions">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_database connection" name="A_Artifact_database connection" memberEnd="extension_database connection database connection-base_Artifact">
-					<ownedEnd xmi:id="extension_database connection" name="extension_database connection" type="database connection" isComposite="true" lower="0" upper="1" memberEnd="extension_database connection database connection-base_Artifact"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="xsd" name="xsd">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="xsd-base_Artifact" name="base_Artifact" association="Artifact_xsd">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_xsd" name="A_Artifact_xsd" memberEnd="extension_xsd xsd-base_Artifact">
-					<ownedEnd xmi:id="extension_xsd" name="extension_xsd" type="xsd" isComposite="true" lower="0" upper="1" memberEnd="extension_xsd xsd-base_Artifact"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="enumeration" name="enumeration">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="enumeration-base_Class" name="base_Class" association="Class_enumeration">
@@ -10483,14 +10521,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Dependency_abstraction" name="A_Dependency_abstraction" memberEnd="extension_abstraction abstraction-base_Dependency">
 					<ownedEnd xmi:id="extension_abstraction" name="extension_abstraction" type="abstraction" isComposite="true" lower="0" upper="1" memberEnd="extension_abstraction abstraction-base_Dependency"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="xmlFile" name="xmlFile">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="xmlFile-base_Artifact" name="base_Artifact" association="Artifact_xmlFile">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_xmlFile" name="A_Artifact_xmlFile" memberEnd="extension_xmlFile xmlFile-base_Artifact">
-					<ownedEnd xmi:id="extension_xmlFile" name="extension_xmlFile" type="xmlFile" isComposite="true" lower="0" upper="1" memberEnd="extension_xmlFile xmlFile-base_Artifact"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="use" name="use">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="use-base_Dependency" name="base_Dependency" association="Dependency_use">
 						<type href="http://schema.omg.org/spec/UML/2.1/Dependency"/>
@@ -10498,60 +10528,6 @@ Versie NEN 3610: 2011
 				</packagedElement>
 				<packagedElement xmi:type="uml:Extension" xmi:id="Dependency_use" name="A_Dependency_use" memberEnd="extension_use use-base_Dependency">
 					<ownedEnd xmi:id="extension_use" name="extension_use" type="use" isComposite="true" lower="0" upper="1" memberEnd="extension_use use-base_Dependency"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="outputArtifact" name="outputArtifact">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="outputArtifact-base_Artifact" name="base_Artifact" association="Artifact_outputArtifact">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_outputArtifact" name="A_Artifact_outputArtifact" memberEnd="extension_outputArtifact outputArtifact-base_Artifact">
-					<ownedEnd xmi:id="extension_outputArtifact" name="extension_outputArtifact" type="outputArtifact" isComposite="true" lower="0" upper="1" memberEnd="extension_outputArtifact outputArtifact-base_Artifact"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="functions" name="functions">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="functions-base_Class" name="base_Class" association="Class_functions">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_functions" name="A_Class_functions" memberEnd="extension_functions functions-base_Class">
-					<ownedEnd xmi:id="extension_functions" name="extension_functions" type="functions" isComposite="true" lower="0" upper="1" memberEnd="extension_functions functions-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="proc" name="proc">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="proc-base_Operation" name="base_Operation" association="Operation_proc">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_proc" name="A_Operation_proc" memberEnd="extension_proc proc-base_Operation">
-					<ownedEnd xmi:id="extension_proc" name="extension_proc" type="proc" isComposite="true" lower="0" upper="1" memberEnd="extension_proc proc-base_Operation"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="Chart" name="Chart">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="Chart-base_Class" name="base_Class" association="Class_Chart">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="Chart-ChartProperties" name="ChartProperties">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_Chart" name="A_Class_Chart" memberEnd="extension_Chart Chart-base_Class">
-					<ownedEnd xmi:id="extension_Chart" name="extension_Chart" type="Chart" isComposite="true" lower="0" upper="1" memberEnd="extension_Chart Chart-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="EAReportSpecification" name="EAReportSpecification">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="EAReportSpecification-base_Artifact" name="base_Artifact" association="Artifact_EAReportSpecification">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="EAReportSpecification-DocumentOptions" name="DocumentOptions">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_EAReportSpecification" name="A_Artifact_EAReportSpecification" memberEnd="extension_EAReportSpecification EAReportSpecification-base_Artifact">
-					<ownedEnd xmi:id="extension_EAReportSpecification" name="extension_EAReportSpecification" type="EAReportSpecification" isComposite="true" lower="0" upper="1" memberEnd="extension_EAReportSpecification EAReportSpecification-base_Artifact"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="sequ" name="sequ">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="sequ-base_Operation" name="base_Operation" association="Operation_sequ">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_sequ" name="A_Operation_sequ" memberEnd="extension_sequ sequ-base_Operation">
-					<ownedEnd xmi:id="extension_sequ" name="extension_sequ" type="sequ" isComposite="true" lower="0" upper="1" memberEnd="extension_sequ sequ-base_Operation"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="derive" name="derive">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="derive-base_Dependency" name="base_Dependency" association="Dependency_derive">
@@ -10562,26 +10538,7 @@ Versie NEN 3610: 2011
 					<ownedEnd xmi:id="extension_derive" name="extension_derive" type="derive" isComposite="true" lower="0" upper="1" memberEnd="extension_derive derive-base_Dependency"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="view" name="view">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="view-base_Class" name="base_Class" association="Class_view">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="view-DBVersion" name="DBVersion">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="view-Owner" name="Owner">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_view" name="A_Class_view" memberEnd="extension_view view-base_Class">
-					<ownedEnd xmi:id="extension_view" name="extension_view" type="view" isComposite="true" lower="0" upper="1" memberEnd="extension_view view-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="PK" name="PK">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="PK-base_Operation" name="base_Operation" association="Operation_PK">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_PK" name="A_Operation_PK" memberEnd="extension_PK PK-base_Operation">
-					<ownedEnd xmi:id="extension_PK" name="extension_PK" type="PK" isComposite="true" lower="0" upper="1" memberEnd="extension_PK PK-base_Operation"/>
+					<generalization xmi:type="uml:Generalization" xmi:id="view_table_generalization" general="table"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="business boundary" name="business boundary">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="business boundary-base_Object" name="base_Object" association="Object_business boundary">
@@ -10599,28 +10556,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Class_XSDall" name="A_Class_XSDall" memberEnd="extension_XSDall XSDall-base_Class">
 					<ownedEnd xmi:id="extension_XSDall" name="extension_XSDall" type="XSDall" isComposite="true" lower="0" upper="1" memberEnd="extension_XSDall XSDall-base_Class"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="package" name="package">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="package-base_Class" name="base_Class" association="Class_package">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="package-DBVersion" name="DBVersion">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="package-Owner" name="Owner">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_package" name="A_Class_package" memberEnd="extension_package package-base_Class">
-					<ownedEnd xmi:id="extension_package" name="extension_package" type="package" isComposite="true" lower="0" upper="1" memberEnd="extension_package package-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="sequences" name="sequences">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="sequences-base_Class" name="base_Class" association="Class_sequences">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_sequences" name="A_Class_sequences" memberEnd="extension_sequences sequences-base_Class">
-					<ownedEnd xmi:id="extension_sequences" name="extension_sequences" type="sequences" isComposite="true" lower="0" upper="1" memberEnd="extension_sequences sequences-base_Class"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="XSDsequence" name="XSDsequence">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="XSDsequence-base_Class" name="base_Class" association="Class_XSDsequence">
 						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
@@ -10636,17 +10571,6 @@ Versie NEN 3610: 2011
 				</packagedElement>
 				<packagedElement xmi:type="uml:Extension" xmi:id="UseCase_testsuite" name="A_UseCase_testsuite" memberEnd="extension_testsuite testsuite-base_UseCase">
 					<ownedEnd xmi:id="extension_testsuite" name="extension_testsuite" type="testsuite" isComposite="true" lower="0" upper="1" memberEnd="extension_testsuite testsuite-base_UseCase"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="sqlquery" name="sqlquery">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="sqlquery-base_Artifact" name="base_Artifact" association="Artifact_sqlquery">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="sqlquery-SQL" name="SQL">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_sqlquery" name="A_Artifact_sqlquery" memberEnd="extension_sqlquery sqlquery-base_Artifact">
-					<ownedEnd xmi:id="extension_sqlquery" name="extension_sqlquery" type="sqlquery" isComposite="true" lower="0" upper="1" memberEnd="extension_sqlquery sqlquery-base_Artifact"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="import" name="import">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="import-base_Dependency" name="base_Dependency" association="Dependency_import">
@@ -10667,31 +10591,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Package_master document" name="A_Package_master document" memberEnd="extension_master document master document-base_Package">
 					<ownedEnd xmi:id="extension_master document" name="extension_master document" type="master document" isComposite="true" lower="0" upper="1" memberEnd="extension_master document master document-base_Package"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="dbsequence" name="dbsequence">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="dbsequence-base_Class" name="base_Class" association="Class_dbsequence">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="dbsequence-DBVersion" name="DBVersion">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="dbsequence-Owner" name="Owner">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_dbsequence" name="A_Class_dbsequence" memberEnd="extension_dbsequence dbsequence-base_Class">
-					<ownedEnd xmi:id="extension_dbsequence" name="extension_dbsequence" type="dbsequence" isComposite="true" lower="0" upper="1" memberEnd="extension_dbsequence dbsequence-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="EAMatrixSpecification" name="EAMatrixSpecification">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="EAMatrixSpecification-base_Artifact" name="base_Artifact" association="Artifact_EAMatrixSpecification">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="EAMatrixSpecification-MatrixOptions" name="MatrixOptions">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_EAMatrixSpecification" name="A_Artifact_EAMatrixSpecification" memberEnd="extension_EAMatrixSpecification EAMatrixSpecification-base_Artifact">
-					<ownedEnd xmi:id="extension_EAMatrixSpecification" name="extension_EAMatrixSpecification" type="EAMatrixSpecification" isComposite="true" lower="0" upper="1" memberEnd="extension_EAMatrixSpecification EAMatrixSpecification-base_Artifact"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="case worker" name="case worker">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="case worker-base_Object" name="base_Object" association="Object_case worker">
 						<type href="http://schema.omg.org/spec/UML/2.1/Object"/>
@@ -10699,14 +10598,6 @@ Versie NEN 3610: 2011
 				</packagedElement>
 				<packagedElement xmi:type="uml:Extension" xmi:id="Object_case worker" name="A_Object_case worker" memberEnd="extension_case worker case worker-base_Object">
 					<ownedEnd xmi:id="extension_case worker" name="extension_case worker" type="case worker" isComposite="true" lower="0" upper="1" memberEnd="extension_case worker case worker-base_Object"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="xmlTransform" name="xmlTransform">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="xmlTransform-base_Activity" name="base_Activity" association="Activity_xmlTransform">
-						<type href="http://schema.omg.org/spec/UML/2.1/Activity"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Activity_xmlTransform" name="A_Activity_xmlTransform" memberEnd="extension_xmlTransform xmlTransform-base_Activity">
-					<ownedEnd xmi:id="extension_xmlTransform" name="extension_xmlTransform" type="xmlTransform" isComposite="true" lower="0" upper="1" memberEnd="extension_xmlTransform xmlTransform-base_Activity"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="trace" name="trace">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="trace-base_Abstraction" name="base_Abstraction" association="Abstraction_trace">
@@ -10747,14 +10638,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="UseCase_testset" name="A_UseCase_testset" memberEnd="extension_testset testset-base_UseCase">
 					<ownedEnd xmi:id="extension_testset" name="extension_testset" type="testset" isComposite="true" lower="0" upper="1" memberEnd="extension_testset testset-base_UseCase"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="DataModel" name="DataModel">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="DataModel-base_Package" name="base_Package" association="Package_DataModel">
-						<type href="http://schema.omg.org/spec/UML/2.1/Package"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Package_DataModel" name="A_Package_DataModel" memberEnd="extension_DataModel DataModel-base_Package">
-					<ownedEnd xmi:id="extension_DataModel" name="extension_DataModel" type="DataModel" isComposite="true" lower="0" upper="1" memberEnd="extension_DataModel DataModel-base_Package"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="testcut" name="testcut">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="testcut-base_Object" name="base_Object" association="Object_testcut">
 						<type href="http://schema.omg.org/spec/UML/2.1/Object"/>
@@ -10763,25 +10646,17 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Object_testcut" name="A_Object_testcut" memberEnd="extension_testcut testcut-base_Object">
 					<ownedEnd xmi:id="extension_testcut" name="extension_testcut" type="testcut" isComposite="true" lower="0" upper="1" memberEnd="extension_testcut testcut-base_Object"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="index" name="index">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="index-base_Operation" name="base_Operation" association="Operation_index">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_index" name="A_Operation_index" memberEnd="extension_index index-base_Operation">
-					<ownedEnd xmi:id="extension_index" name="extension_index" type="index" isComposite="true" lower="0" upper="1" memberEnd="extension_index index-base_Operation"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="table" name="table">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="table-base_Class" name="base_Class" association="Class_table">
 						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
 					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="table-DBVersion" name="DBVersion">
+					<ownedAttribute xmi:type="uml:Property" xmi:id="table-DBVERSION" name="DBVERSION">
 						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
 					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="table-Owner" name="Owner">
+					<ownedAttribute xmi:type="uml:Property" xmi:id="table-OWNER" name="OWNER">
 						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
 					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="table-Tablespace" name="Tablespace">
+					<ownedAttribute xmi:type="uml:Property" xmi:id="table-TABLESPACE" name="TABLESPACE">
 						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
 					</ownedAttribute>
 				</packagedElement>
@@ -10796,14 +10671,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Dependency_instantiate" name="A_Dependency_instantiate" memberEnd="extension_instantiate instantiate-base_Dependency">
 					<ownedEnd xmi:id="extension_instantiate" name="extension_instantiate" type="instantiate" isComposite="true" lower="0" upper="1" memberEnd="extension_instantiate instantiate-base_Dependency"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="unique" name="unique">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="unique-base_Operation" name="base_Operation" association="Operation_unique">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_unique" name="A_Operation_unique" memberEnd="extension_unique unique-base_Operation">
-					<ownedEnd xmi:id="extension_unique" name="extension_unique" type="unique" isComposite="true" lower="0" upper="1" memberEnd="extension_unique unique-base_Operation"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="business use-case realization" name="business use-case realization">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="business use-case realization-base_Collaboration" name="base_Collaboration" association="Collaboration_business use-case realization">
 						<type href="http://schema.omg.org/spec/UML/2.1/Collaboration"/>
@@ -10812,101 +10679,8 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="Collaboration_business use-case realization" name="A_Collaboration_business use-case realization" memberEnd="extension_business use-case realization business use-case realization-base_Collaboration">
 					<ownedEnd xmi:id="extension_business use-case realization" name="extension_business use-case realization" type="business use-case realization" isComposite="true" lower="0" upper="1" memberEnd="extension_business use-case realization business use-case realization-base_Collaboration"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="procedures" name="procedures">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="procedures-base_Class" name="base_Class" association="Class_procedures">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_procedures" name="A_Class_procedures" memberEnd="extension_procedures procedures-base_Class">
-					<ownedEnd xmi:id="extension_procedures" name="extension_procedures" type="procedures" isComposite="true" lower="0" upper="1" memberEnd="extension_procedures procedures-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="Checklist" name="Checklist">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="Checklist-base_Artifact" name="base_Artifact" association="Artifact_Checklist">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="Checklist-Checklist" name="Checklist">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_Checklist" name="A_Artifact_Checklist" memberEnd="extension_Checklist Checklist-base_Artifact">
-					<ownedEnd xmi:id="extension_Checklist" name="extension_Checklist" type="Checklist" isComposite="true" lower="0" upper="1" memberEnd="extension_Checklist Checklist-base_Artifact"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="procedure" name="procedure">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="procedure-base_Class" name="base_Class" association="Class_procedure">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="procedure-DBVersion" name="DBVersion">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="procedure-Owner" name="Owner">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_procedure" name="A_Class_procedure" memberEnd="extension_procedure procedure-base_Class">
-					<ownedEnd xmi:id="extension_procedure" name="extension_procedure" type="procedure" isComposite="true" lower="0" upper="1" memberEnd="extension_procedure procedure-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="EAUserStory" name="EAUserStory">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="EAUserStory-base_DocumentArtifact" name="base_DocumentArtifact" association="DocumentArtifact_EAUserStory">
-						<type href="http://schema.omg.org/spec/UML/2.1/DocumentArtifact"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="DocumentArtifact_EAUserStory" name="A_DocumentArtifact_EAUserStory" memberEnd="extension_EAUserStory EAUserStory-base_DocumentArtifact">
-					<ownedEnd xmi:id="extension_EAUserStory" name="extension_EAUserStory" type="EAUserStory" isComposite="true" lower="0" upper="1" memberEnd="extension_EAUserStory EAUserStory-base_DocumentArtifact"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="TimeSeriesChart" name="TimeSeriesChart">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="TimeSeriesChart-base_Class" name="base_Class" association="Class_TimeSeriesChart">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="TimeSeriesChart-ChartProperties" name="ChartProperties">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_TimeSeriesChart" name="A_Class_TimeSeriesChart" memberEnd="extension_TimeSeriesChart TimeSeriesChart-base_Class">
-					<ownedEnd xmi:id="extension_TimeSeriesChart" name="extension_TimeSeriesChart" type="TimeSeriesChart" isComposite="true" lower="0" upper="1" memberEnd="extension_TimeSeriesChart TimeSeriesChart-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="xslt" name="xslt">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="xslt-base_Artifact" name="base_Artifact" association="Artifact_xslt">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_xslt" name="A_Artifact_xslt" memberEnd="extension_xslt xslt-base_Artifact">
-					<ownedEnd xmi:id="extension_xslt" name="extension_xslt" type="xslt" isComposite="true" lower="0" upper="1" memberEnd="extension_xslt xslt-base_Artifact"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="function" name="function">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="function-base_Class" name="base_Class" association="Class_function">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="function-DBVersion" name="DBVersion">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="function-Owner" name="Owner">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_function" name="A_Class_function" memberEnd="extension_function function-base_Class">
-					<ownedEnd xmi:id="extension_function" name="extension_function" type="function" isComposite="true" lower="0" upper="1" memberEnd="extension_function function-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="executable statemachine" name="executable statemachine">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="executable statemachine-base_Artifact" name="base_Artifact" association="Artifact_executable statemachine">
-						<type href="http://schema.omg.org/spec/UML/2.1/Artifact"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="executable statemachine-base_Component" name="base_Component" association="Component_executable statemachine">
-						<type href="http://schema.omg.org/spec/UML/2.1/Component"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Artifact_executable statemachine" name="A_Artifact_executable statemachine" memberEnd="extension_executable statemachine executable statemachine-base_Artifact">
-					<ownedEnd xmi:id="extension_executable statemachine" name="extension_executable statemachine" type="executable statemachine" isComposite="true" lower="0" upper="1" memberEnd="extension_executable statemachine executable statemachine-base_Artifact"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Component_executable statemachine" name="A_Component_executable statemachine" memberEnd="extension_executable statemachine executable statemachine-base_Component">
-					<ownedEnd xmi:id="extension_executable statemachine" name="extension_executable statemachine" type="executable statemachine" isComposite="true" lower="0" upper="1" memberEnd="extension_executable statemachine executable statemachine-base_Component"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="func" name="func">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="func-base_Operation" name="base_Operation" association="Operation_func">
-						<type href="http://schema.omg.org/spec/UML/2.1/Operation"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Operation_func" name="A_Operation_func" memberEnd="extension_func func-base_Operation">
-					<ownedEnd xmi:id="extension_func" name="extension_func" type="func" isComposite="true" lower="0" upper="1" memberEnd="extension_func func-base_Operation"/>
+					<generalization xmi:type="uml:Generalization" xmi:id="procedure_table_generalization" general="table"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="navigate" name="navigate">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="navigate-base_Association" name="base_Association" association="Association_navigate">
@@ -10924,14 +10698,6 @@ Versie NEN 3610: 2011
 				<packagedElement xmi:type="uml:Extension" xmi:id="UseCase_business use case" name="A_UseCase_business use case" memberEnd="extension_business use case business use case-base_UseCase">
 					<ownedEnd xmi:id="extension_business use case" name="extension_business use case" type="business use case" isComposite="true" lower="0" upper="1" memberEnd="extension_business use case business use case-base_UseCase"/>
 				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="Database" name="Database">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="Database-base_Package" name="base_Package" association="Package_Database">
-						<type href="http://schema.omg.org/spec/UML/2.1/Package"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Package_Database" name="A_Package_Database" memberEnd="extension_Database Database-base_Package">
-					<ownedEnd xmi:id="extension_Database" name="extension_Database" type="Database" isComposite="true" lower="0" upper="1" memberEnd="extension_Database Database-base_Package"/>
-				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="XSDchoice" name="XSDchoice">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="XSDchoice-base_Class" name="base_Class" association="Class_XSDchoice">
 						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
@@ -10939,17 +10705,6 @@ Versie NEN 3610: 2011
 				</packagedElement>
 				<packagedElement xmi:type="uml:Extension" xmi:id="Class_XSDchoice" name="A_Class_XSDchoice" memberEnd="extension_XSDchoice XSDchoice-base_Class">
 					<ownedEnd xmi:id="extension_XSDchoice" name="extension_XSDchoice" type="XSDchoice" isComposite="true" lower="0" upper="1" memberEnd="extension_XSDchoice XSDchoice-base_Class"/>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Stereotype" xmi:id="ModelView" name="ModelView">
-					<ownedAttribute xmi:type="uml:Property" xmi:id="ModelView-base_Class" name="base_Class" association="Class_ModelView">
-						<type href="http://schema.omg.org/spec/UML/2.1/Class"/>
-					</ownedAttribute>
-					<ownedAttribute xmi:type="uml:Property" xmi:id="ModelView-ViewProperties" name="ViewProperties">
-						<type href="http://schema.omg.org/spec/UML/2.1/String"/>
-					</ownedAttribute>
-				</packagedElement>
-				<packagedElement xmi:type="uml:Extension" xmi:id="Class_ModelView" name="A_Class_ModelView" memberEnd="extension_ModelView ModelView-base_Class">
-					<ownedEnd xmi:id="extension_ModelView" name="extension_ModelView" type="ModelView" isComposite="true" lower="0" upper="1" memberEnd="extension_ModelView ModelView-base_Class"/>
 				</packagedElement>
 				<packagedElement xmi:type="uml:Stereotype" xmi:id="worker" name="worker">
 					<ownedAttribute xmi:type="uml:Property" xmi:id="worker-base_Object" name="base_Object" association="Object_worker">
@@ -10984,8 +10739,8 @@ Versie NEN 3610: 2011
 				<project author="Peter" version="1.0" created="2013-04-27 17:27:34" modified="2013-04-27 17:52:19"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=2;PPgs.cy=1;DocSize.cx=803;DocSize.cy=1146;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=851;Top=469;Right=985;Bottom=642;" subject="EAID_6A5BEE3A_ADD9_4228_8843_A1D3E865685C" seqno="1" style="DUID=326EB553;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;italic=0;ul=0;charset=0;pitch=0;"/>
@@ -10998,8 +10753,8 @@ Versie NEN 3610: 2011
 				<project author="Wilko Quak" version="1.0" created="2010-01-20 14:49:56" modified="2010-01-20 17:08:29"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1130;DocSize.cy=795;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=158;Top=124;Right=248;Bottom=194;" subject="EAID_B491881D_7EA8_4d92_A6EA_EB7D7A4C967D" seqno="1" style="DUID=8523045B;"/>
@@ -11020,8 +10775,8 @@ Versie NEN 3610: 2011
 				<project author="Wilko Quak" version="1.0" created="2010-01-20 15:14:44" modified="2010-01-20 17:08:28"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1130;DocSize.cy=795;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=324;Top=405;Right=414;Bottom=475;" subject="EAID_3B9D4E02_F33A_4d58_8D2D_B9773B7BBF48" seqno="1" style="DUID=DB17B7AC;"/>
@@ -11042,8 +10797,8 @@ Versie NEN 3610: 2011
 				<project author="lentjp" version="1.0" created="2013-03-25 12:14:09" modified="2016-05-26 10:26:31"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=2;PPgs.cy=1;DocSize.cx=1622;DocSize.cy=1138;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=1;PaperSize=8;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;SaveTag=E144F8B7;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=1436;Top=1040;Right=1647;Bottom=1125;" subject="EAID_BD31F963_3D32_44a1_8EA4_7A3EF7C980F1" seqno="1" style="DUID=1C193F08;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;"/>
@@ -11085,8 +10840,8 @@ Versie NEN 3610: 2011
 				<project author="lentjp" version="1.0" created="2013-03-25 13:54:17" modified="2015-04-21 17:07:09"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=2;PPgs.cy=2;DocSize.cx=827;DocSize.cy=1169;ShowDetails=0;Orientation=P;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;SuppressedCompartments=;SaveTag=4797AAC1;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=577;Top=1243;Right=667;Bottom=1315;" subject="EAID_16D4D77F_2C6D_4d9b_9995_6C93B8C8D357" seqno="1" style="DUID=76BDF709;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;black=0;italic=0;ul=0;charset=0;pitch=0;"/>
@@ -11130,8 +10885,8 @@ Versie NEN 3610: 2011
 				<project author="Wilko Quak" version="1.0" created="2010-01-18 22:47:56" modified="2013-05-08 11:31:50"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=2;PPgs.cy=1;DocSize.cx=1130;DocSize.cy=795;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=1;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=1197;Top=290;Right=1287;Bottom=360;" subject="EAID_8CF8CF84_0D54_4f88_B532_461E58236772" seqno="1" style=" DUID=D442BAC7;"/>
@@ -11167,8 +10922,8 @@ Versie NEN 3610: 2011
 				<project author="Wilko Quak" version="1.0" created="2010-01-28 10:49:31" modified="2011-02-10 15:05:40"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1130;DocSize.cy=795;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=348;Top=217;Right=491;Bottom=306;" subject="EAID_A734CEEA_B2B0_44a4_ADE3_AB0CAAEF36FB" seqno="1" style="DUID=2B3F426E;NSL=0;BCol=-1;BFol=-1;LCol=-1;LWth=-1;fontsz=0;bold=0;italic=0;ul=0;charset=0;pitch=0;"/>
@@ -11183,8 +10938,8 @@ Versie NEN 3610: 2011
 				<project author="Wilko Quak" version="1.0" created="2010-02-08 15:06:59" modified="2011-02-10 15:05:38"/>
 				<style1 value="ShowPrivate=1;ShowProtected=1;ShowPublic=1;HideRelationships=0;Locked=0;Border=1;HighlightForeign=1;PackageContents=1;SequenceNotes=0;ScalePrintImage=0;PPgs.cx=1;PPgs.cy=1;DocSize.cx=1130;DocSize.cy=795;ShowDetails=0;Orientation=L;Zoom=100;ShowTags=0;OpParams=1;VisibleAttributeDetail=0;ShowOpRetType=1;ShowIcons=1;CollabNums=0;HideProps=0;ShowReqs=0;ShowCons=0;PaperSize=9;HideParents=0;UseAlias=0;HideAtts=0;HideOps=0;HideStereo=0;HideElemStereo=0;ShowTests=0;ShowMaint=0;ConnectorNotation=UML 2.1;ExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ShowNotes=0;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
 				<style2 value="ExcludeRTF=0;DocAll=0;HideQuals=0;AttPkg=1;ShowTests=0;ShowMaint=0;SuppressFOC=1;MatrixActive=0;SwimlanesActive=1;MatrixLineWidth=1;MatrixLocked=0;TConnectorNotation=UML 2.1;TExplicitNavigability=0;AdvancedElementProps=1;AdvancedFeatureProps=1;AdvancedConnectorProps=1;ProfileData=;MDGDgm=;STBLDgm=;ShowNotes=0;VisibleAttributeDetail=0;ShowOpRetType=1;SuppressBrackets=0;SuppConnectorLabels=0;PrintPageHeadFoot=0;ShowAsList=0;"/>
-				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;tcol=-1;ofCol=-1;hl=1;cls=0;"/>
-				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;kanbanactive=false;width=1;"/>
+				<swimlanes value="locked=false;orientation=0;width=0;inbar=false;names=false;color=0;bold=false;fcol=0;;cls=0;"/>
+				<matrixitems value="locked=false;matrixactive=false;swimlanesactive=true;width=1;"/>
 				<extendedProperties/>
 				<elements>
 					<element geometry="Left=47;Top=37;Right=176;Bottom=148;" subject="EAID_A0833E9A_1A33_45f1_B9BD_A6C1854DDCCC" seqno="1" style="DUID=8D73A4A8;"/>
